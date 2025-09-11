@@ -8,3 +8,4 @@ Particle 3/5 | J=8.13271e-06 | Gbest: Kp=108.1, Kd=25.55
 Particle 4/5 | J=4.34288e-06 | Gbest: Kp=161.5, Kd=42.03
 Particle 5/5 | J=1.93348e-06 | Gbest: Kp=243, Kd=81.73
 
+C) Se abre simulink, y los 3 archivos .m y se corre el "Archivo_para_correr_todo"
